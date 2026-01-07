@@ -4,7 +4,7 @@
 - 🌱 I’m currently pursuing a **PhD** at Northeastern University.
 - 🔭 I’m interested in Multimodal Large Language Model, Multimodal Dialog and Large Language Model.
 - 👀 I’m currently studying Deployment and fine-tuning of LLMs and MLLMS.
-- 💻 ACMer (🥉 ICPC Nanchang 2020)
+- 💻 ACMer (🥉 ICPC Nanchang 2019)
 - 📫 How to reach me: <xuxingle@stumail.neu.edu.cn>
 
 
