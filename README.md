@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi, I'm <你的名字> 👋</h1>
+<h1 align="center">Hi, I'm Xu Xingle 👋</h1>
 <p align="center">
   <b><Multimodal Reasoning | Emotion-aware Dialogue></b>
 </p>
@@ -15,7 +15,7 @@
 ---
 
 ## About Me
-- 🎓 <学校/实验室/组织> · <身份：PhD/MS/Researcher/Engineer>
+- 🎓 <学校/实验室/组织> · <PhD Student>
 - 🔭 Focus: <研究方向 1>, <研究方向 2>, <研究方向 3>
 - 🧠 Interests: Multimodal LLMs, Test-time reasoning, Emotion perception in conversation, Robustness
 - 🧰 Stack: Python / PyTorch / Transformers / CUDA / Docker / Linux
