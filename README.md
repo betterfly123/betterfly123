@@ -1,24 +1,11 @@
+### Hi, I’m @Xu Xingle 👋
 
 
-<h1 align="center">Hi, I'm Xu Xingle 👋</h1>
-<p align="center">
-  <b><Multimodal Reasoning | Emotion-aware Dialogue></b>
-</p>
+- 🌱 I’m currently pursuing a **PhD** at Northeastern University.
+- 🔭 I’m interested in Multimodal Large Language Model, Multimodal Dialog and Large Language Model.
+- 👀 I’m currently studying Deployment and fine-tuning of LLMs and MLLMS.
+- 💻 ACMer (🥉 ICPC Nanchang 2020)
+- 📫 How to reach me: <xuxingle@stumail.neu.edu.cn>
 
-<p align="center">
-  <a href="<你的主页链接>">Homepage</a> ·
-  <a href="<你的Google Scholar链接>">Google Scholar</a> ·
-  <a href="<你的CV链接>">CV</a> ·
-  <a href="mailto:<你的邮箱>">Email</a>
-</p>
 
----
-
-## About Me
-- 🎓 <学校/实验室/组织> · <PhD Student>
-- 🔭 Focus: <研究方向 1>, <研究方向 2>, <研究方向 3>
-- 🧠 Interests: Multimodal LLMs, Test-time reasoning, Emotion perception in conversation, Robustness
-- 🧰 Stack: Python / PyTorch / Transformers / CUDA / Docker / Linux
-- 🌏 Location: <城市/时区>
-
----
+![](https://github-readme-stats-one-bice.vercel.app/api?username=betterfly123&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&hide=prs&count_private=true)
